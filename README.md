@@ -10,3 +10,18 @@ git clone git@github.com:...
 ```
 
 Open two terminals
+
+Termianl-1:
+```bash
+cd client
+npm install
+npm run start
+```
+
+Termianl-2:
+```bash
+cd server
+npm install
+npm run develop
+```
+
